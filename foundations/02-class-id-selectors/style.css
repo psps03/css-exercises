@@ -1,0 +1,18 @@
+.pinkBG{
+    background-color: #f08080;
+    font-family: "Vedana", "DejaVu Sans", sans-serif;
+}
+
+.fontSIZE{
+    font-size: 24px;
+}
+#blueFONT{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#greenBG{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
